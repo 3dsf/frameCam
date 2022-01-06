@@ -1,0 +1,14 @@
+
+
+# Ignore Logs
+logs
+*.log
+
+
+# Ignore hidden files/folders
+.*
+!/.gitignore
+
+
+# Ignore __pycache__
+*__*__*
